@@ -198,12 +198,8 @@ with col2:
 st.markdown("""
 ---
 **Notas:**
-- Los cálculos se basan en las recomendaciones de la OMS y el IOM (Institute of Medicine)
-- El GET (Gasto Energético Total) incluye el factor de actividad física
-- El REE (Requerimiento Energético en Embarazo) incluye el costo energético del embarazo
+- Los cálculos se basan en las recomendaciones de la OMS.
 
 **Referencias:**
-- Institute of Medicine. Weight Gain During Pregnancy: Reexamining the Guidelines
-- WHO/FAO/UNU. Human energy requirements
 - De León Fraga, J. (Dir. Ed.), & Guerrero Aguilar, H. F. (Ed. Des.). (2012). Manual de fórmulas y tablas para la intervención nutriológica (2ª ed.). McGraw-Hill Interamericana Editores.
 """)
